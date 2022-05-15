@@ -1,0 +1,60 @@
+[
+	{
+		"topics": ["all", "1DRQ", "Geometry", "DP", "Prefix Sums", "Constructive", "Math, Binary Search", "Connected Components", "Game", "Set"]
+	},
+  {
+    "name": "Help Yourself",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1018",
+    "tags": ["Prefix Sums"]
+  },
+  {
+    "name": "Stone Game",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1113",
+    "tags": ["Prefix Sums", "Game"]
+  },
+  {
+    "name": "UCFJ",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1137",
+    "tags": ["1DRQ"]
+  },
+  {
+    "name": "Permutation",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1139",
+    "tags": ["DP", "Geometry"]
+  },
+  {
+    "name": "Paired Up",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1161",
+    "tags": ["DP"]
+  },
+  {
+    "name": "Drought",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1185",
+    "tags": ["DP"]
+  },
+  {
+    "name": "Farm Updates",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1186",
+    "tags": ["Connected Components"]
+  },
+  {
+    "name": "Tests for Haybales",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1187",
+    "tags": ["Constructive"]
+  },
+  {
+    "name": "Cow Camp",
+    "url": "http://usaco.org/index.php?page=viewproblem2&cpid=1210",
+    "tags": ["Math, Binary Search"]
+  },
+  {
+    "name": "Balancing a Tree",
+    "url": "http://usaco.org/index.php?page=viewproblem2&cpid=1235",
+    "tags": []
+  },
+  {
+    "name": "Dance Mooves",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1091",
+    "tags": ["Set"]
+  }
+]

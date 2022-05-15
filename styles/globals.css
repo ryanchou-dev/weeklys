@@ -1,3 +1,33 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  html {
+    @apply text-txt;
+  } 
+}
+
+.btn {
+  @apply text-txt;
+  @apply lowercase;
+  @apply font-normal;
+  @apply text-base;
+  @apply -mt-2;
+
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+
+}
+
+.tippy-tooltip.tomato-theme {
+  background-color: tomato;
+  color: yellow;
+}
+
+.tippy-tooltip.tomato-theme[data-animatefill] {
+  background-color: transparent;
+}
+
+.tippy-tooltip.tomato-theme .tippy-backdrop {
+  background-color: tomato;
+}

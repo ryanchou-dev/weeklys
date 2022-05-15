@@ -1,0 +1,90 @@
+[
+	{
+		"topics": ["all", "Prefix Sums", "Recursion", "Greedy", "Simulation", "Meet in the Middle", "Stack", "Map", "Linked List", "Binary Search", "Connected Components", "Sorting", "Set", "Sorted Set"]
+	},
+  {
+    "name": "Secret Cow Code",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=692",
+    "tags": ["Recursion"]
+  },
+  {
+    "name": "Teleportation",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=812",
+    "tags": ["Sorted Set"]
+  },
+  {
+    "name": "The Moo Particle",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1040",
+    "tags": ["Connected Components"]
+  },
+  {
+    "name": "No Time To Paint",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1087",
+    "tags": ["Prefix Sums"]
+  },
+  {
+    "name": "Year of the Cow",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1111",
+    "tags": ["Sorting", "Greedy"]
+  },
+  {
+    "name": "Just Green Enough",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1112",
+    "tags": ["Prefix Sums"]
+  },
+  {
+    "name": "Dance Mooves",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1086",
+    "tags": []
+  },
+  {
+    "name": "Swapity Swapity Swap",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1014",
+    "tags": []
+  },
+  {
+    "name": "ABC",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1135",
+    "tags": ["Set"]
+  },
+  {
+    "name": "Acowdemia",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1136",
+    "tags": ["Binary Search", "Sorting"]
+  },
+  {
+    "name": "Convoluted Intervals",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1160",
+    "tags": ["Prefix Sums"]
+  },
+  {
+    "name": "Cow Frisbee",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1183",
+    "tags": ["Sorted Set", "Stack", "Linked List"]
+  },
+  {
+    "name": "Robot Instructions",
+    "url": "http://usaco.org/index.php?page=viewproblem2&cpid=1207",
+    "tags": ["Map", "Sorting", "Meet in the Middle"]
+  },
+  {
+    "name": "Email Filing",
+    "url": "http://usaco.org/index.php?page=viewproblem2&cpid=1208",
+    "tags": ["Simulation"]
+  },
+  {
+    "name": "Subset Equality",
+    "url": "http://usaco.org/index.php?page=viewproblem2&cpid=1231",
+    "tags": []
+  },
+  {
+    "name": "COW Operations",
+    "url": "http://usaco.org/index.php?page=viewproblem2&cpid=1232",
+    "tags": ["Prefix Sums"]
+  },
+  {
+    "name": "MooBuzz",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=966",
+    "tags": ["Binary Search"]
+  }
+]

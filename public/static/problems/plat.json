@@ -1,0 +1,140 @@
+[
+	{
+		"topics": ["all", "1DRQ", "Combinatorics", "Deque", "Tree", "Lazy SegTree", "SP", "SegTree", "DP", "Euler's Formula", "2P", "Binary Search", "Convex", "BFS", "Prefix Sums", "Greedy", "Determinant", "Prime Factorization", "DSU", "Matrix", "PIE"]
+	},
+  {
+    "name": "Greedy Gift Takers",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=770",
+    "tags": ["Binary Search"]
+  },
+  {
+    "name": "Lifeguards",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=792",
+    "tags": ["DP"]
+  },
+  {
+    "name": "Sprinklers",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=794",
+    "tags": ["2P"]
+  },
+  {
+    "name": "Redistricting",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=900",
+    "tags": ["Deque"]
+  },
+  {
+    "name": "Cave Paintings",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=996",
+    "tags": ["DSU", "DP"]
+  },
+  {
+    "name": "Help Yourself",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1022",
+    "tags": ["Lazy SegTree"]
+  },
+  {
+    "name": "Sprinklers 2: Return of the Alfalfa",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1044",
+    "tags": ["Prefix Sums", "DP"]
+  },
+  {
+    "name": "Circus",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1046",
+    "tags": ["Tree"]
+  },
+  {
+    "name": "Spaceship",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1069",
+    "tags": ["Matrix"]
+  },
+  {
+    "name": "Sleeping Cows",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1068",
+    "tags": ["DP"]
+  },
+  {
+    "name": "Sum of Distances",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1092",
+    "tags": ["BFS", "PIE"]
+  },
+  {
+    "name": "Minimum Cost Paths",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1093",
+    "tags": ["Convex"]
+  },
+  {
+    "name": "No Time to Dry",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1116",
+    "tags": ["1DRQ"]
+  },
+  {
+    "name": "Minimizing Edges",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1117",
+    "tags": ["BFS", "Greedy"]
+  },
+  {
+    "name": "Counting Graphs",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1118",
+    "tags": ["BFS", "Combinatorics", "PIE"]
+  },
+  {
+    "name": "UCFJ",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1140",
+    "tags": ["1DRQ"]
+  },
+  {
+    "name": "Routing",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1141",
+    "tags": ["DP", "Determinant"]
+  },
+  {
+    "name": "Balanced Subsets",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1142",
+    "tags": ["DP", "Prefix Sums"]
+  },
+  {
+    "name": "Tickets",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1164",
+    "tags": ["SP", "SegTree"]
+  },
+  {
+    "name": "Paired Up",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1165",
+    "tags": ["DP"]
+  },
+  {
+    "name": "HILO",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1166",
+    "tags": ["DP", "Combinatorics"]
+  },
+  {
+    "name": "Minimizing Haybales",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1188",
+    "tags": ["SegTree"]
+  },
+  {
+    "name": "Counting Haybales",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1189",
+    "tags": ["DP"]
+  },
+  {
+    "name": "Multiple Choice Test",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1190",
+    "tags": ["Convex"]
+  },
+  {
+    "name": "Paint by Rectangles",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1212",
+    "tags": ["Euler's Formula", "DSU", "SegTree"]
+  },
+  {
+    "name": "Sleeping in Class",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1213",
+    "tags": ["Prefix Sums", "Prime Factorization"]
+  },
+  {
+    "name": "Phone Numbers",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1214",
+    "tags": ["DP"]
+  }
+]

@@ -1,0 +1,85 @@
+[
+	{
+		"topics": ["all", "Geometry", "Simulation", "Complete Search", "Math", "Greedy"]
+	},
+  {
+    "name": "Why Did the Cow Cross the Road",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=711",
+    "tags": []
+  },
+  {
+    "name": "Photoshoot",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=988",
+    "tags": []
+  },
+  {
+    "name": "Uddered but not Herd",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1083",
+    "tags": []
+  },
+  {
+    "name": "Just Stalling",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1085",
+    "tags": ["Math"]
+  },
+  {
+    "name": "Comfortable Cows",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1108",
+    "tags": ["Simulation"]
+  },
+  {
+    "name": "Clockwise Fence",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1109",
+    "tags": ["Geometry"]
+  },
+  {
+    "name": "Acowdemia III",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1133",
+    "tags": ["Greedy"]
+  },
+  {
+    "name": "Lonely Photo",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1155",
+    "tags": ["Complete Search"]
+  },
+  {
+    "name": "Air Cownditioning",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1156",
+    "tags": ["Greedy"]
+  },
+  {
+    "name": "Walking Home",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1157",
+    "tags": ["Complete Search"]
+  },
+  {
+    "name": "Herdle",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1179",
+    "tags": ["Simulation"]
+  },
+  {
+    "name": "Non-Transitive Dice",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1180",
+    "tags": ["Complete Search"]
+  },
+  {
+    "name": "Photoshoot 2",
+    "url": "http://usaco.org/index.php?page=viewproblem2&cpid=1204",
+    "tags": []
+  },
+  {
+    "name": "Blocks",
+    "url": "http://usaco.org/index.php?page=viewproblem2&cpid=1205",
+    "tags": ["Complete Search"]
+  },
+  {
+    "name": "Alchemy",
+    "url": "http://usaco.org/index.php?page=viewproblem2&cpid=1229",
+    "tags": ["Simulation"]
+  },
+  {
+    "name": "Hoof, Paper, Scissors",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=688",
+    "tags": ["Complete Search", "Simulation"]
+  }
+]
